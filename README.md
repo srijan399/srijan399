@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **srijansarkar2705@gmail.com**
 
-- 📄 Know about my experiences [https://pdf.ac/26hY9b](https://drive.google.com/drive/folders/1vYttDtJn4iIRJmceBKjcOdZ6zvG5nqAh?usp=sharing)
+- 📄 Know about my experiences [MyResume](https://drive.google.com/drive/folders/1vYttDtJn4iIRJmceBKjcOdZ6zvG5nqAh?usp=sharing)
 
 - ⚡ Fun fact **I think I'm pretty witty and fun.**
 

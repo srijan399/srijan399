@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **srijansarkar2705@gmail.com**
 
-- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/1_idenzJfOLCaqQt-5JT0ExpmsLx6fxmw/view?usp=sharing)
+- 📄 Know about my experiences: [Resume](https://drive.google.com/file/d/189n1XtxOKBjSUW9o6vPMFigor5YCLv94/view?usp=sharing)
 
 - ⚡ Fun fact **I think I'm like the most weird combination of lazy and ambitious.**
 

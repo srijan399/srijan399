@@ -2,7 +2,8 @@
 
 ### Fullstack developer with a growing focus on backend development and Web3. Dedicated to continuous learning and building meaningful tech solutions.
 
-- Currently diving into **Web3, blockchain, smart contracts**, exploring **Rust**
+- Currently diving into **Web3, blockchain, smart contracts**
+- Learning **Rust**
 - Reach me at: **srijansarkar2705@gmail.com**  
 - Learn more about my work: [My Resume](https://drive.google.com/file/d/189n1XtxOKBjSUW9o6vPMFigor5YCLv94/view?usp=sharing)    
 

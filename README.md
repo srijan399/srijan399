@@ -40,8 +40,6 @@
 ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 ![Postman](https://img.shields.io/badge/postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/cloudinary-%233776E6.svg?style=for-the-badge&logo=cloudinary&logoColor=white)
-![Razorpay](https://img.shields.io/badge/razorpay-%23011E3C.svg?style=for-the-badge&logo=razorpay&logoColor=white)
-![Google Maps API](https://img.shields.io/badge/google%20maps%20api-%234285F4.svg?style=for-the-badge&logo=google-maps&logoColor=white)
 ![Gemini AI](https://img.shields.io/badge/gemini%20ai-%2300A3FF.svg?style=for-the-badge&logo=google&logoColor=white)
 ![Codeforces API](https://img.shields.io/badge/codeforces%20api-%23F44336.svg?style=for-the-badge&logo=codeforces&logoColor=white)
 

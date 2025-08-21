@@ -5,7 +5,7 @@
 - Currently diving into **defi, smart contracts, ethereum**
 - Learning **Rust**
 - Reach me at: **srijansarkar2705@gmail.com**  
-- Learn more about my work: [My Resume](https://drive.google.com/file/d/189n1XtxOKBjSUW9o6vPMFigor5YCLv94/view?usp=sharing)    
+- Here's a bit of my POW: [Resume](https://drive.google.com/file/d/1O0-sNe8SDzZInEcP6Bf2wbnWMTcLFl5q/view?usp=sharing)    
 
 ## Connect with me:
 <p align="left">
